@@ -16,35 +16,17 @@
 	</p>
 </div>
 
-## About
+## الوصف العام
 
-This repository contains multiple packages with separate [releases][github-releases]. You can find the assembled Discord API wrapper at [`discord.js`][source]. It is a powerful [Node.js](https://nodejs.org/en) module that allows you to easily interact with the [Discord API](https://discord.com/developers/docs/intro).
+البوت هو بوت متعدد الوظائف تم تطويره باستخدام JavaScript وإصدار Discord.js v13. يعمل البوت على إصدار Node.js 10 ويقدم مجموعة من الأنظمة والإمكانيات التي تسهل إدارة السيرفر وتفاعل الأعضاء.
 
-## Packages
+## روابط عني
 
-- `discord.js` ([source][source]) - A powerful Node.js module for interacting with the Discord API
-- `@discordjs/brokers` ([source][brokers-source]) - A collection of brokers for use with discord.js
-- `@discordjs/builders` ([source][builders-source]) - A utility package for easily building Discord API payloads
-- `@discordjs/collection` ([source][collection-source]) - A powerful utility data structure
-- `@discordjs/core` ([source][core-source]) - A thinly abstracted wrapper around the core components of the Discord API
-- `@discordjs/formatters` ([source][formatters-source]) - A collection of functions for formatting strings
-- `@discordjs/proxy` ([source][proxy-source]) - A wrapper around `@discordjs/rest` for running an HTTP proxy
-- `@discordjs/rest` ([source][rest-source]) - A module for interacting with the Discord REST API
-- `@discordjs/voice` ([source][voice-source]) - A module for interacting with the Discord Voice API
-- `@discordjs/util` ([source][util-source]) - A collection of utility functions
-- `@discordjs/ws` ([source][ws-source]) - A wrapper around Discord's gateway
-
-## Links
-
-- [Website][website] ([source][website-source])
-- [Documentation][documentation]
-- [Guide][guide] ([source][guide-source])
-  Also see the v13 to v14 [Update Guide][guide-update], which includes updated and removed items from the library.
-- [discord.js Discord server][discord]
-- [Discord API Discord server][discord-api]
-- [GitHub][source]
-- [npm][npm]
-- [Related libraries][related-libs]
+- [الويب سايت][https://clipper-tv.netlify.app/]
+- [خادم الديسكورد][https://discord.gg/jShEWMZDXh]
+- [الانستغرام][https://www.instagram.com/ahm.depression/]
+- [فيسبوك][https://www.facebook.com/Ahm.Depression/]
+- [تويتر][noon]
 
 ### Extensions
 
