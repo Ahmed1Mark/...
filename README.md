@@ -12,7 +12,7 @@
 		<a href="https://github.com/discordjs/discord.js/graphs/contributors"><img src="https://img.shields.io/github/contributors/discordjs/discord.js.svg?maxAge=3600&logo=github&logoColor=fff&color=00c7be" alt="contributors" /></a>
 	</p>
 	<p>
-		<a href="https://www.instagram.com"><img src="https://cdn.discordapp.com/attachments/1254132794293092363/1349480278686437426/600x200.jpg?ex=67d340f2&is=67d1ef72&hm=8b75371b04f4ae8eab479a6e543d2b61285bf2e8c434c0595040202f3891fe2b&" alt="Cloudflare Workers" height="44" /></a>
+		<a href="https://tinyurl.com/clipper-tv"><img src="https://cdn.discordapp.com/attachments/1254132794293092363/1349480254040834158/image_1.png?ex=67d340ec&is=67d1ef6c&hm=f2c27c4a20e92073c246a4ee4d0a879039e32cb96099ff53c22b27129b7996ab&" alt="Vercel" /></a>
 	</p>
 </div>
 
