@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://discord.gg/jShEWMZDXh"><img src="https://cdn.discordapp.com/attachments/1254132794293092363/1349483541922058423/image.png?ex=67d343fc&is=67d1f27c&hm=7880054bc8a987231621df8d1578a94fd7ee3a36f1d917ec78cf86f2f3ff64da&" width="546" alt="discord.js" /></a>
+		<a href="https://discord.gg/jShEWMZDXh"><img src="https://cdn.discordapp.com/attachments/1254132794293092363/1349483541922058423/image.png?ex=67db2cfc&is=67d9db7c&hm=b92fd93bbbfa017e1de7e0402688d49a4a10ccaa9c83d57d23f88459a6931c50&" width="546" alt="discord.js" /></a>
 	</p>
 	<br />
 	<p>
@@ -12,7 +12,7 @@
 		<a href="https://github.com/discordjs/discord.js/graphs/contributors"><img src="https://img.shields.io/github/contributors/discordjs/discord.js.svg?maxAge=3600&logo=github&logoColor=fff&color=00c7be" alt="contributors" /></a>
 	</p>
 	<p>
-		<a href="https://tinyurl.com/clipper-tv"><img src="https://cdn.discordapp.com/attachments/1254132794293092363/1349483985683611688/image_2.png?ex=67d34466&is=67d1f2e6&hm=cd22ad95d5df33f53fe067120efe9c47e63cd03dc7beef40d515c10dbef1c8bb&" alt="Vercel" /></a>
+		<a href="https://tinyurl.com/clipper-tv"><img src="https://cdn.discordapp.com/attachments/1254132794293092363/1349483985683611688/image_2.png?ex=67db2d66&is=67d9dbe6&hm=3b02f7f86339bbc286b8a2e4ca9e4d1b4646c93b8cc7a136967dd26e5fee7fbb&" alt="Vercel" /></a>
 	</p>
 </div>
 
